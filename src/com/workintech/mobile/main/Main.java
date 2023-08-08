@@ -1,4 +1,4 @@
-package com.workintech.main;
+package com.workintech.mobile.main;
 
 public class Main {
     public static void main(String[] args) {
